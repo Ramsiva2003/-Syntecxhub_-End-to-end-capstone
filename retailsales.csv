@@ -1,0 +1,11 @@
+Order ID,Order Date,Customer ID,Product Name,Category,Unit Price,Quantity,Total Sales,Store Region
+R-5001,2024-03-01,C-101,Running Shoes,Footwear,75.00,2,150.00,West
+R-5002,2024-03-01,C-102,T-Shirt,Apparel,25.50,3,76.50,East
+R-5003,2024-03-02,C-103,Water Bottle,Accessories,12.99,5,64.95,Central
+R-5004,2024-03-02,C-101,Laptop Bag,Accessories,45.00,1,45.00,West
+R-5005,2024-03-03,C-104,Dress Pants,Apparel,60.00,2,120.00,South
+R-5006,2024-03-04,C-105,Smartwatch,Electronics,199.99,1,199.99,East
+R-5007,2024-03-05,C-103,Jeans,Apparel,55.00,4,220.00,Central
+R-5008,2024-03-05,C-106,Headphones,Electronics,99.50,2,199.00,West
+R-5009,2024-03-06,C-107,Backpack,Accessories,35.00,1,35.00,North
+R-5010,2024-03-07,C-108,Basketball,Sports Goods,28.00,3,84.00,South
